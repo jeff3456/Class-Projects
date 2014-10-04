@@ -1,0 +1,15 @@
+Open
+Deposit 100
+D 50
+Balance
+Open
+Deposit 999
+Login 1000
+W 5
+B
+Q
+B
+L 1001
+W 99
+B
+T

@@ -1,0 +1,15 @@
+1000
+100.0
+50.0
+150.0
+1001
+999.0
+Hello
+5.0
+145.0
+Goodbye
+ERROR
+Hello
+99.0
+900.0
+Terminated
