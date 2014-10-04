@@ -1,0 +1,1 @@
+NarrowArtGallery.d: ../NarrowArtGallery.cpp
